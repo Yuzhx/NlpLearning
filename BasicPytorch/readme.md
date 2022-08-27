@@ -51,11 +51,11 @@ plt.show()
 
 loss的变化趋势如下图所示：
 
-<img src="https://yzx-drawing-bed.oss-cn-hangzhou.aliyuncs.com/img/202208252229087.png" alt="image-20220825222949037" style="zoom: 33%;" />
+<img src="https://yzx-drawing-bed.oss-cn-hangzhou.aliyuncs.com/img/202208252229087.png" alt="image-20220825222949037" style="width: 33%;" />
 
 以下为拟合的曲线与原曲线的对照：
 
-<img src="https://yzx-drawing-bed.oss-cn-hangzhou.aliyuncs.com/img/202208252231556.png" alt="image-20220825223109515" style="zoom:33%;" />
+<img src="https://yzx-drawing-bed.oss-cn-hangzhou.aliyuncs.com/img/202208252231556.png" alt="image-20220825223109515" style="width: 33%;" />
 
 ### pytorch数据集的加载
 
