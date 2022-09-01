@@ -1,9 +1,6 @@
 import random
-
-from torch import optim
 from torch.utils.data import Dataset, DataLoader
 import csv
-from torch.nn.utils.rnn import pad_sequence
 import torch.nn as nn
 import torch
 
