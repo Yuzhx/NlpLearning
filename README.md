@@ -6,4 +6,4 @@
 
 在学习过程之中，本人亲自完成了几个小项目，并且分别在代码层面加以实现，主要使用的框架是pytorch框架，掌握了使用该框架构建神经网络，进行训练，调节超参数，解决具体问题的基本方法。
 
-另外完成了复旦大学NLP实验室的入门练习项目[NLP-Beginner：自然语言处理入门练习]([FudanNLP/nlp-beginner: NLP上手教程 (github.com)](https://github.com/FudanNLP/nlp-beginner))，本仓库包含Task1~5的代码。
+另外完成了复旦大学NLP实验室的入门练习项目[NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)，本仓库包含Task1~5的代码。
