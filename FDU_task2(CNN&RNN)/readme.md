@@ -56,7 +56,7 @@ for bert_tokens in nodes_bert:
 
 CNN来应用于序列信息（自然语言）的特征提取最早在[[1408.5882\] Convolutional Neural Networks for Sentence Classification (arxiv.org)](https://arxiv.org/abs/1408.5882)一文中提出，如下图所示
 
-<img src="C:\Users\74891\AppData\Roaming\Typora\typora-user-images\image-20230317091850340.png" alt="image-20230317091850340" style="zoom: 67%;" />
+<img src="https://yzx-drawing-bed.oss-cn-hangzhou.aliyuncs.com/img/image-20230317091850340.png" alt="image-20230317091850340" style="zoom: 67%;" />
 
 对于一个句子，将其embedding为规模为[max_len, embedding_dim]的向量之后，使用cnn沿着第一个维度进行卷积，其中可以设置不同卷积核的宽度，卷积核的宽度形象地来说，可以认为是一次卷积最多可以看到多少个相邻的单词，例如上图中的黄色卷积核，便一次看到了"video and do"三个单词的信息。
 
